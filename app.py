@@ -41,7 +41,8 @@ except FileNotFoundError:
 
 # ✅ Sidebar for model selection
 with st.sidebar:
-    st.image("images/salary_icon.png", width=120)
+    st.image("https://cdn-icons-png.flaticon.com/512/3135/3135715.png", width=120)
+
     st.markdown("### ⚙️ Settings")
     st.markdown("Select your prediction model below:")
     model_choice = st.selectbox("Prediction Model", list(models.keys()))
