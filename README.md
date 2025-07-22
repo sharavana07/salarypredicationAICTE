@@ -1,65 +1,91 @@
-#  Employee Salary Prediction Web Application
+# 💼 Employee Salary Prediction Web App
 
-[![Kaggle Dataset](https://img.shields.io/badge/dataset-Kaggle-blue)](https://www.kaggle.com/datasets/rkiattisak/salaly-prediction-for-beginer)
-[![Kaggle Notebook](https://img.shields.io/badge/Kaggle_Notebook-Open-blue)](https://www.kaggle.com/code/roshians/employe-salary-prediction-using-ml)
-[![View Demo](https://img.shields.io/badge/Demo-Streamlit%20App-brightgreen?logo=streamlit)](https://employe-salary-prediction-using-ml.streamlit.app/)
+[![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue)](https://www.kaggle.com/datasets/rkiattisak/salaly-prediction-for-beginer)
+[![Demo](https://img.shields.io/badge/Demo-Streamlit%20App-brightgreen?logo=streamlit)](https://employe-salary-prediction-using-ml.streamlit.app/)
 
-
-A Machine Learning-powered web app that accurately predicts employee salaries based on inputs such as age, gender, education level, job title, and years of experience. Designed with a modern UI using **Streamlit**, and trained using regression techniques in **scikit-learn**.
-
----
-
-## Features
-
--  Predict salary using multiple input factors
--  Interactive and modern Streamlit UI
--  Real-time display of predicted salary, monthly salary, hourly rate
--  Visual R² Score indicating model performance
--  Trained using Linear Regression with proper preprocessing
--  Model caching for fast response
+A **Machine Learning-powered web application** that predicts employee salaries based on **Age**, **Gender**, **Education Level**, **Job Title**, and **Years of Experience**.
+Built using **Streamlit** with an elegant dark UI and multiple regression models.
 
 ---
 
-## Input Features
+## ✅ Features
 
-- Age
-- Gender
-- Education Level
-- Job Title
-- Years of Experience
+✔ Predict salary using **5 ML Models**:
 
----
+* Linear Regression
+* Decision Tree
+* Random Forest
+* Gradient Boosting
+* XGBoost
 
-## Tech Stack
-
-| Layer       | Tools Used                        |
-|-------------|-----------------------------------|
-| UI          | Streamlit                         |
-| ML Model    | XGBRegressor                      |
-| Data Prep   | Pandas, NumPy, LabelEncoder, Scaler |
-| Deployment  | Streamlit Cloud                   |
+✔ Interactive **Streamlit UI** with model selection
+✔ Displays **Estimated Annual Salary** instantly
+✔ **Model comparison charts (R² & RMSE)** for presentation
+✔ Pre-trained models for **fast predictions**
 
 ---
 
+## 📊 Input Features
 
+* Age
+* Gender
+* Education Level
+* Job Title
+* Years of Experience
 
-## Setup Instructions
+---
+
+## 🛠 Tech Stack
+
+| Layer          | Tools Used                                                                  |
+| -------------- | --------------------------------------------------------------------------- |
+| **Frontend**   | Streamlit                                                                   |
+| **ML Models**  | Linear Regression, Decision Tree, Random Forest, Gradient Boosting, XGBoost |
+| **Data Prep**  | Pandas, NumPy, LabelEncoder, StandardScaler                                 |
+| **Deployment** | Streamlit Cloud                                                             |
+
+---
+
+## 🔍 Model Performance
+
+| Model             | R² Score |     RMSE |
+| ----------------- | -------: | -------: |
+| Linear Regression |   0.7163 | 14222.31 |
+| Decision Tree     |   0.7849 | 12384.41 |
+| Random Forest     |   0.8756 |  9419.67 |
+| Gradient Boosting |   0.9692 |  4690.05 |
+| XGBoost           |   0.9449 |  6268.71 |
+
+---
+
+### 📈 Performance Charts
+
+**Model Comparison (R² Score)**
+![R² Score Comparison](images/model_comparison.png)
+
+**RMSE Comparison**
+![RMSE Comparison](images/rmse_comparison.png)
+
+---
+
+## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
+
 ```bash
-git clone Roshians/Employe-Salary-Prediction-Using-ML
-cd Employe-Salary-Prediction-Using-ML
-````
+git clone https://github.com/sharavana07/salarypredicationAICTE.git
+cd salarypredicationAICTE
+```
 
 ### 2. Create a Virtual Environment
 
 ```bash
 python -m venv venv
 
-# On Windows
-.\venv\Scripts\activate
-
-# On macOS/Linux
+# Activate
+# Windows:
+venv\Scripts\activate
+# Mac/Linux:
 source venv/bin/activate
 ```
 
@@ -69,7 +95,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 4. Run the Application Locally
+### 4. Run Locally
 
 ```bash
 streamlit run app.py
@@ -77,22 +103,35 @@ streamlit run app.py
 
 ---
 
-## Model Information
+## 📦 Deployment on Streamlit Cloud
 
-* **Algorithm**: XGBoost Regressor
-* **Evaluation Metric**: R² Score
-* **Encoding**: Label Encoding for categorical fields
-* **Scaling**: StandardScaler for numeric normalization
-
----
-
-##  Screenshots
-
-| Input Form                               | Salary Prediction Output                 |
-| ---------------------------------------- | ---------------------------------------- |
-| [![4YNKJFKj.png](https://i.postimg.cc/5288Shf9/Screenshot-2025-07-19-225402.png)](https://postimg.cc/4YNKJFKj) | [![5-C3-D3098-24-A4-4-EF3-ABE2-7-D2-EBE64-D96-A.png](https://i.postimg.cc/CKYkPcKG/Screenshot-2025-07-19-225451.png)](https://postimg.cc/sM6M197x) |
+1. Push your code to **GitHub**
+2. Go to [Streamlit Cloud](https://streamlit.io/cloud)
+3. **Connect your GitHub repo** and deploy
+4. Set **Python version**: `3.10+`
+5. Add `requirements.txt` in **Packages**
 
 ---
 
-## License
-This project is for educational and internship purposes. All rights reserved by the author.
+## 📂 Project Structure
+
+```
+salarypredicationAICTE/
+│
+├── app.py                   # Streamlit App
+├── train_and_save_models.py # Training script
+├── all_salary_models.pkl    # All pre-trained models
+├── employee_salary_data.csv # Dataset
+├── requirements.txt         # Dependencies
+├── images/                  # Model comparison charts
+│   ├── model_comparison.png
+│   ├── rmse_comparison.png
+└── README.md
+```
+
+
+## 📜 License
+
+This project is for **educational purposes** and internship demonstration. All rights reserved by the author.
+
+---
