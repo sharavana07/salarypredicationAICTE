@@ -1,0 +1,501 @@
+Age,Gender,Education Level,Job Title,Years of Experience,Salary
+59,Male,Master,Business Analyst,17,91672
+49,Male,Master,Software Engineer,18,110200
+35,Female,Master,Data Scientist,21,122016
+28,Female,Master,HR Manager,31,140191
+41,Male,PhD,Software Engineer,2,94392
+59,Female,High School,Project Manager,27,107616
+39,Male,PhD,Financial Analyst,9,99272
+43,Female,PhD,Data Scientist,34,168571
+31,Male,Master,Project Manager,28,134631
+31,Male,Bachelor,Business Analyst,14,74172
+44,Male,Bachelor,Project Manager,32,133312
+56,Male,PhD,Product Manager,6,114177
+44,Male,PhD,Product Manager,11,125433
+23,Male,Master,Marketing Specialist,29,116897
+42,Female,PhD,DevOps Engineer,20,138123
+22,Male,Master,DevOps Engineer,30,132279
+44,Female,Bachelor,Data Scientist,23,119980
+50,Male,Bachelor,Business Analyst,19,85451
+58,Female,High School,Sales Executive,3,39906
+22,Female,Bachelor,Product Manager,27,114775
+41,Female,PhD,Data Scientist,19,144869
+53,Male,Bachelor,Sales Executive,23,88247
+32,Male,Master,DevOps Engineer,31,139088
+42,Female,Bachelor,Marketing Specialist,33,106078
+45,Male,High School,Project Manager,1,55080
+47,Female,Bachelor,Product Manager,14,95099
+48,Male,Master,Data Scientist,33,149926
+36,Female,Master,Software Engineer,5,89047
+35,Female,PhD,Sales Executive,11,104340
+23,Male,Bachelor,Project Manager,2,71083
+57,Female,Master,Product Manager,17,115230
+27,Male,High School,DevOps Engineer,20,89223
+41,Female,PhD,Business Analyst,14,107940
+29,Female,High School,Sales Executive,32,92271
+59,Male,Bachelor,DevOps Engineer,34,126456
+38,Male,Bachelor,Product Manager,25,117788
+24,Male,Bachelor,Sales Executive,7,62599
+45,Female,PhD,Project Manager,29,160650
+34,Male,Master,Product Manager,22,121711
+29,Female,PhD,Financial Analyst,13,102668
+46,Female,High School,Data Scientist,13,76147
+22,Male,PhD,Project Manager,1,103420
+40,Male,High School,Sales Executive,4,33365
+48,Female,PhD,Business Analyst,13,110866
+27,Female,Master,DevOps Engineer,24,122531
+28,Male,High School,Software Engineer,19,83330
+55,Male,Bachelor,DevOps Engineer,1,62510
+34,Male,Bachelor,Sales Executive,5,58754
+37,Male,PhD,DevOps Engineer,16,130964
+56,Male,Bachelor,Data Scientist,24,119493
+24,Female,High School,Product Manager,27,104439
+22,Female,Bachelor,Software Engineer,1,66765
+26,Female,Master,HR Manager,34,149511
+24,Female,Master,Sales Executive,4,70504
+49,Male,PhD,Marketing Specialist,0,76246
+38,Male,High School,HR Manager,11,70839
+46,Male,Master,DevOps Engineer,22,122551
+54,Female,Master,Sales Executive,30,117376
+30,Female,High School,Financial Analyst,10,48009
+56,Male,Bachelor,Marketing Specialist,9,67154
+34,Male,Bachelor,Software Engineer,2,60827
+51,Female,PhD,Business Analyst,13,107979
+35,Female,Bachelor,Financial Analyst,15,79805
+28,Male,High School,HR Manager,9,72832
+34,Male,Master,Product Manager,28,139569
+43,Female,Bachelor,Data Scientist,9,87285
+41,Male,PhD,Business Analyst,11,103910
+36,Male,Bachelor,Financial Analyst,29,106561
+38,Male,High School,Product Manager,0,47196
+44,Female,PhD,Product Manager,4,106747
+46,Female,Bachelor,Sales Executive,19,86843
+45,Female,PhD,Financial Analyst,7,94978
+49,Female,High School,Software Engineer,11,67607
+35,Female,Master,DevOps Engineer,0,70769
+21,Female,High School,Marketing Specialist,19,63780
+45,Female,High School,Marketing Specialist,27,88908
+27,Male,High School,HR Manager,11,73303
+29,Male,High School,HR Manager,27,102983
+44,Male,Master,Marketing Specialist,14,92503
+21,Male,Master,Software Engineer,5,88714
+28,Male,PhD,Data Scientist,19,138521
+44,Male,Bachelor,Project Manager,13,95127
+31,Male,Master,DevOps Engineer,1,79569
+37,Female,Master,Data Scientist,8,101784
+28,Female,Bachelor,Sales Executive,19,82583
+55,Male,Master,Project Manager,25,130946
+55,Male,High School,Project Manager,28,105941
+53,Female,High School,Financial Analyst,0,31267
+25,Male,Bachelor,Software Engineer,34,130128
+59,Male,PhD,Software Engineer,5,102461
+48,Female,PhD,Project Manager,4,103685
+27,Male,Bachelor,Financial Analyst,32,106160
+29,Female,Bachelor,DevOps Engineer,13,88031
+28,Male,High School,Project Manager,11,76759
+32,Female,PhD,Business Analyst,19,118341
+54,Female,Master,HR Manager,23,121038
+53,Female,High School,HR Manager,33,115875
+43,Male,Bachelor,Data Scientist,24,114256
+44,Female,PhD,Sales Executive,28,138697
+57,Male,Master,HR Manager,30,137196
+55,Male,Master,Product Manager,22,126165
+42,Male,High School,Data Scientist,19,88301
+47,Male,PhD,HR Manager,22,146527
+55,Female,PhD,Sales Executive,15,111381
+21,Female,Bachelor,Software Engineer,7,69646
+55,Male,PhD,Software Engineer,20,139951
+57,Male,PhD,DevOps Engineer,0,98789
+34,Female,High School,Project Manager,7,67853
+23,Male,PhD,Business Analyst,28,135330
+21,Female,Master,Software Engineer,31,141560
+25,Male,High School,Financial Analyst,4,40003
+46,Male,High School,HR Manager,21,90537
+34,Female,Bachelor,Financial Analyst,33,110558
+59,Male,PhD,Sales Executive,0,81579
+47,Female,Bachelor,Software Engineer,25,113474
+29,Male,Master,Business Analyst,9,82678
+35,Male,High School,Sales Executive,29,87082
+35,Male,High School,Product Manager,17,83183
+46,Female,High School,Product Manager,16,85652
+33,Male,Master,Financial Analyst,25,108754
+52,Male,Master,Project Manager,7,90724
+59,Male,Bachelor,Data Scientist,11,88376
+52,Male,Bachelor,Project Manager,26,120706
+24,Female,Bachelor,DevOps Engineer,7,77894
+50,Female,PhD,Project Manager,24,144653
+57,Male,High School,DevOps Engineer,3,48066
+43,Female,High School,DevOps Engineer,32,104022
+59,Male,Bachelor,Business Analyst,0,42460
+35,Male,High School,Software Engineer,18,81926
+49,Male,Bachelor,Business Analyst,30,106251
+56,Female,PhD,DevOps Engineer,15,129496
+33,Female,PhD,Sales Executive,13,108295
+52,Female,Master,Product Manager,4,86300
+27,Female,PhD,DevOps Engineer,25,146279
+42,Female,Bachelor,Business Analyst,27,102553
+48,Female,PhD,Sales Executive,1,84353
+22,Female,Master,Business Analyst,5,68727
+26,Female,High School,Project Manager,8,67272
+48,Female,Bachelor,HR Manager,32,129995
+48,Male,High School,Financial Analyst,24,82476
+40,Female,Master,Data Scientist,12,104514
+50,Female,Master,Business Analyst,8,71448
+31,Female,Master,Data Scientist,12,110019
+48,Female,High School,Marketing Specialist,30,90343
+45,Female,High School,Business Analyst,10,53033
+59,Female,High School,HR Manager,3,53520
+53,Female,High School,Data Scientist,33,119081
+21,Female,Master,DevOps Engineer,3,77428
+47,Female,Master,Business Analyst,18,94967
+33,Female,Bachelor,Software Engineer,5,71445
+23,Female,Bachelor,Financial Analyst,33,115114
+59,Male,High School,HR Manager,17,81159
+26,Male,PhD,Data Scientist,12,129132
+28,Female,PhD,HR Manager,22,141547
+47,Female,Master,Sales Executive,18,93979
+29,Male,Master,Financial Analyst,10,77649
+57,Female,Master,DevOps Engineer,0,78505
+53,Male,Bachelor,Business Analyst,23,89083
+44,Male,Bachelor,Business Analyst,6,53037
+35,Male,Master,Business Analyst,24,106489
+52,Male,Master,Financial Analyst,20,102604
+52,Male,Master,Software Engineer,14,105544
+44,Female,PhD,Marketing Specialist,0,77634
+32,Male,Bachelor,Product Manager,11,85983
+59,Female,PhD,Project Manager,6,108778
+22,Female,PhD,Data Scientist,14,135902
+23,Male,Master,Software Engineer,20,115110
+57,Male,Master,DevOps Engineer,18,111189
+37,Female,High School,Data Scientist,28,113378
+22,Male,High School,Business Analyst,24,74124
+22,Male,PhD,HR Manager,32,159697
+48,Female,Bachelor,DevOps Engineer,31,119179
+43,Female,Master,Data Scientist,34,157596
+57,Male,Master,Business Analyst,25,110251
+52,Female,PhD,Data Scientist,10,129235
+53,Male,High School,HR Manager,34,114929
+21,Male,Bachelor,Business Analyst,7,55013
+39,Male,High School,Marketing Specialist,13,51226
+22,Female,High School,Software Engineer,9,65321
+46,Female,High School,Sales Executive,1,28828
+52,Female,High School,Project Manager,8,68909
+26,Female,Master,Financial Analyst,2,64588
+52,Female,Master,Project Manager,20,117023
+24,Male,High School,DevOps Engineer,25,94966
+31,Male,Bachelor,Project Manager,7,79891
+37,Male,PhD,Business Analyst,1,78080
+58,Male,Bachelor,Marketing Specialist,5,55036
+44,Female,Bachelor,Sales Executive,27,96563
+25,Male,Bachelor,Software Engineer,28,114292
+54,Female,High School,Software Engineer,25,93586
+26,Male,Master,HR Manager,24,127431
+42,Female,Bachelor,Financial Analyst,11,68841
+31,Female,High School,Data Scientist,4,64643
+36,Male,Bachelor,Marketing Specialist,33,109959
+53,Male,Bachelor,Data Scientist,14,93161
+29,Male,High School,Sales Executive,14,53593
+26,Male,Master,Project Manager,22,122390
+36,Female,Master,Software Engineer,5,85997
+49,Male,PhD,Sales Executive,20,121354
+23,Male,High School,Project Manager,22,89663
+40,Female,PhD,Software Engineer,15,129324
+56,Male,PhD,Project Manager,14,123541
+39,Male,PhD,Financial Analyst,24,128433
+46,Male,Master,Marketing Specialist,10,80093
+23,Male,High School,DevOps Engineer,14,68867
+39,Male,PhD,Sales Executive,3,89623
+40,Female,High School,Sales Executive,20,70469
+52,Male,High School,Product Manager,12,75256
+27,Male,Master,Business Analyst,21,106398
+53,Male,PhD,Financial Analyst,18,112169
+59,Male,PhD,Financial Analyst,33,141830
+38,Male,High School,Data Scientist,13,77651
+21,Female,Bachelor,Project Manager,3,67136
+31,Male,Master,Business Analyst,26,109810
+48,Female,Master,Marketing Specialist,28,119667
+45,Female,Master,Marketing Specialist,27,118518
+43,Male,Master,Financial Analyst,34,124019
+51,Male,PhD,Marketing Specialist,7,94237
+50,Male,PhD,Product Manager,15,126283
+55,Male,Bachelor,Sales Executive,29,98659
+27,Female,Master,HR Manager,17,111010
+36,Male,Master,DevOps Engineer,1,80590
+46,Male,High School,Data Scientist,12,75733
+22,Male,PhD,Project Manager,3,103125
+21,Male,Master,DevOps Engineer,25,122171
+32,Male,Bachelor,Project Manager,24,116266
+25,Male,Bachelor,Software Engineer,29,116471
+57,Female,PhD,DevOps Engineer,10,119028
+52,Female,Bachelor,HR Manager,6,77624
+29,Male,Bachelor,Financial Analyst,30,108691
+55,Male,PhD,Product Manager,9,121329
+39,Male,Master,Sales Executive,12,81097
+36,Female,Master,Sales Executive,30,120068
+23,Male,Bachelor,Product Manager,6,78397
+40,Female,Bachelor,Business Analyst,19,80757
+44,Male,Master,Software Engineer,3,79920
+53,Male,PhD,Project Manager,6,115186
+44,Male,Bachelor,HR Manager,0,61900
+31,Male,High School,Marketing Specialist,12,51610
+28,Female,PhD,DevOps Engineer,21,138900
+56,Female,Bachelor,Software Engineer,20,96449
+58,Male,Bachelor,DevOps Engineer,21,105738
+40,Male,High School,HR Manager,27,104017
+55,Female,High School,Data Scientist,8,73999
+45,Female,Master,Data Scientist,25,136052
+55,Female,PhD,Software Engineer,8,108096
+45,Female,PhD,Financial Analyst,14,111895
+49,Male,Master,HR Manager,9,99404
+38,Female,PhD,HR Manager,23,150817
+38,Male,PhD,Product Manager,7,112331
+22,Female,PhD,Financial Analyst,23,128462
+55,Female,PhD,Project Manager,15,130105
+36,Female,PhD,Project Manager,25,147978
+56,Female,High School,Marketing Specialist,26,79839
+53,Female,PhD,Sales Executive,3,84384
+24,Male,High School,Data Scientist,23,96685
+53,Male,PhD,Project Manager,18,138531
+34,Female,Master,Financial Analyst,9,77283
+41,Female,Bachelor,HR Manager,24,115736
+40,Male,High School,Project Manager,17,86710
+28,Female,PhD,HR Manager,18,132619
+27,Female,Master,Project Manager,9,99868
+23,Male,Bachelor,Data Scientist,32,130431
+37,Female,High School,DevOps Engineer,4,57067
+53,Female,Bachelor,Project Manager,34,132713
+32,Male,Master,Financial Analyst,33,130557
+42,Male,High School,Project Manager,32,118435
+42,Male,Bachelor,Sales Executive,20,84998
+50,Female,PhD,Data Scientist,16,132162
+58,Male,High School,Financial Analyst,21,68974
+58,Male,Bachelor,Product Manager,14,91291
+28,Male,Master,Financial Analyst,34,131461
+47,Male,Master,Sales Executive,27,109631
+47,Male,High School,DevOps Engineer,6,52905
+54,Male,Bachelor,Data Scientist,31,129014
+41,Female,High School,Product Manager,10,74833
+50,Female,High School,Sales Executive,9,50896
+53,Male,Bachelor,Sales Executive,8,56204
+48,Male,Bachelor,Software Engineer,13,81581
+53,Male,PhD,Data Scientist,12,129675
+25,Female,Bachelor,Financial Analyst,24,97032
+39,Female,Master,HR Manager,1,82347
+24,Female,High School,DevOps Engineer,34,117911
+55,Female,High School,HR Manager,6,59643
+37,Female,Master,Financial Analyst,20,103017
+48,Female,Bachelor,Financial Analyst,17,76297
+50,Female,Master,Data Scientist,2,84874
+49,Female,Master,Financial Analyst,10,80560
+26,Female,PhD,Software Engineer,23,136689
+55,Male,Master,Product Manager,18,115000
+57,Male,High School,Financial Analyst,3,40614
+44,Male,Master,HR Manager,25,125671
+49,Male,High School,Financial Analyst,31,94927
+51,Female,High School,Software Engineer,32,105171
+55,Female,High School,Project Manager,2,54591
+53,Male,Bachelor,Project Manager,8,85135
+41,Female,PhD,Sales Executive,7,95342
+52,Male,High School,DevOps Engineer,32,105449
+43,Female,High School,Marketing Specialist,5,37539
+53,Male,Bachelor,Product Manager,3,69959
+23,Female,High School,Business Analyst,12,55285
+38,Female,Master,Sales Executive,1,62432
+45,Male,Master,DevOps Engineer,4,82260
+51,Female,PhD,Project Manager,26,149361
+23,Male,High School,HR Manager,31,113164
+44,Male,Bachelor,Business Analyst,20,83670
+52,Male,Master,DevOps Engineer,7,85753
+42,Male,Bachelor,DevOps Engineer,7,77100
+43,Female,Bachelor,Sales Executive,2,45938
+22,Female,Master,Business Analyst,2,67562
+47,Female,Bachelor,Data Scientist,21,112976
+22,Male,Master,Marketing Specialist,5,71588
+46,Female,Bachelor,Data Scientist,1,75616
+37,Male,Master,Business Analyst,22,105304
+53,Female,High School,Data Scientist,1,59345
+29,Female,PhD,Software Engineer,16,129875
+59,Female,Master,Project Manager,34,152086
+49,Male,Master,Software Engineer,33,142633
+46,Female,PhD,Financial Analyst,22,119597
+55,Female,Master,Data Scientist,29,141062
+45,Male,Master,Financial Analyst,7,71336
+44,Female,Bachelor,HR Manager,21,111879
+33,Male,PhD,Product Manager,4,103572
+27,Female,High School,HR Manager,12,76521
+56,Male,Master,Business Analyst,28,117171
+40,Male,PhD,DevOps Engineer,30,157097
+21,Female,Bachelor,Project Manager,15,92090
+28,Male,High School,Data Scientist,29,114566
+36,Male,PhD,Sales Executive,15,109624
+34,Male,High School,Product Manager,11,68633
+32,Male,High School,Marketing Specialist,16,58517
+43,Male,High School,Marketing Specialist,15,58648
+35,Male,Master,Marketing Specialist,11,78537
+48,Female,Master,Data Scientist,7,97137
+54,Male,Bachelor,Marketing Specialist,19,84985
+22,Male,Bachelor,Software Engineer,2,59097
+52,Female,PhD,Product Manager,15,128750
+43,Female,Bachelor,Software Engineer,29,121535
+42,Female,High School,DevOps Engineer,22,92174
+45,Female,High School,Product Manager,27,107103
+42,Female,Master,Software Engineer,4,83413
+42,Female,High School,Product Manager,19,87666
+26,Female,PhD,DevOps Engineer,0,90610
+35,Male,High School,Financial Analyst,29,84727
+57,Male,High School,Data Scientist,20,91854
+53,Female,PhD,Data Scientist,19,143055
+28,Male,Bachelor,Marketing Specialist,5,52324
+25,Male,Bachelor,HR Manager,21,111369
+59,Male,PhD,Marketing Specialist,17,118283
+24,Female,Master,Business Analyst,7,74774
+26,Female,High School,Software Engineer,31,108519
+52,Male,PhD,Product Manager,32,160749
+50,Female,High School,HR Manager,15,75781
+55,Male,Master,DevOps Engineer,11,99548
+36,Male,High School,Business Analyst,33,97823
+33,Male,PhD,DevOps Engineer,13,118105
+50,Male,High School,Data Scientist,32,117867
+39,Female,Bachelor,Data Scientist,22,116193
+37,Female,Master,Marketing Specialist,1,61976
+39,Female,Master,Software Engineer,20,112113
+48,Male,Master,HR Manager,1,82879
+46,Female,PhD,Project Manager,26,150970
+57,Male,Master,Business Analyst,8,80259
+46,Female,Bachelor,Business Analyst,0,47264
+43,Male,PhD,Marketing Specialist,10,96577
+29,Male,Bachelor,Data Scientist,2,78203
+32,Male,High School,Marketing Specialist,22,71274
+21,Female,High School,Product Manager,25,99869
+21,Female,High School,HR Manager,3,57744
+54,Female,High School,Software Engineer,17,76426
+52,Female,Bachelor,Financial Analyst,5,55546
+45,Male,PhD,Sales Executive,34,149852
+21,Female,PhD,Sales Executive,21,119551
+36,Female,Master,Marketing Specialist,14,89411
+59,Male,Bachelor,Product Manager,21,102007
+25,Male,High School,HR Manager,11,75087
+42,Male,Bachelor,Project Manager,17,96555
+49,Female,Master,Sales Executive,34,123475
+23,Male,Master,HR Manager,29,138416
+32,Male,Bachelor,Software Engineer,23,109676
+46,Male,Bachelor,DevOps Engineer,29,120239
+36,Female,Bachelor,Product Manager,13,92710
+57,Male,PhD,Data Scientist,5,115000
+42,Female,High School,HR Manager,2,53654
+49,Female,Bachelor,Software Engineer,15,93078
+34,Male,Bachelor,Project Manager,6,78063
+48,Male,Bachelor,Financial Analyst,13,68285
+25,Female,Master,Data Scientist,8,101223
+50,Male,Master,Financial Analyst,14,89971
+25,Male,PhD,Project Manager,20,138525
+32,Female,High School,Software Engineer,34,110822
+36,Female,PhD,Sales Executive,1,81943
+46,Male,High School,Financial Analyst,26,83530
+46,Female,Master,Data Scientist,1,82258
+41,Male,Master,Marketing Specialist,34,123282
+59,Male,Master,Business Analyst,17,90898
+56,Male,PhD,HR Manager,13,125135
+53,Female,Bachelor,Sales Executive,19,84629
+50,Male,Bachelor,Financial Analyst,17,77200
+57,Male,Master,DevOps Engineer,9,93110
+43,Male,Bachelor,HR Manager,24,115167
+30,Female,Bachelor,Marketing Specialist,1,42612
+25,Female,PhD,Project Manager,24,143687
+56,Female,High School,Business Analyst,32,92690
+54,Female,Master,Software Engineer,30,138804
+51,Female,Master,Marketing Specialist,13,83307
+30,Male,PhD,Marketing Specialist,0,82133
+39,Female,PhD,Project Manager,15,131509
+52,Female,Bachelor,Product Manager,2,73973
+21,Female,Master,Project Manager,34,148906
+25,Male,High School,Product Manager,5,57591
+24,Female,PhD,Product Manager,24,150183
+36,Female,High School,Sales Executive,12,54248
+44,Male,High School,Sales Executive,33,99766
+36,Female,Master,Data Scientist,7,99108
+22,Male,Master,Financial Analyst,20,98604
+48,Male,PhD,Financial Analyst,33,141669
+52,Male,Master,Software Engineer,3,80364
+47,Male,Master,Financial Analyst,24,110329
+40,Male,Master,Sales Executive,14,84283
+44,Female,High School,Data Scientist,3,56923
+32,Male,PhD,Data Scientist,11,123125
+55,Male,Bachelor,Product Manager,31,123529
+53,Female,High School,Project Manager,31,116786
+53,Male,Master,Software Engineer,27,132438
+57,Female,High School,Product Manager,12,72711
+32,Female,Master,Project Manager,30,143004
+23,Female,Master,Financial Analyst,13,90752
+21,Male,High School,Product Manager,19,89274
+53,Male,PhD,HR Manager,17,132864
+30,Male,Master,Financial Analyst,28,118833
+49,Female,PhD,Project Manager,5,111788
+33,Male,Bachelor,Software Engineer,31,117226
+32,Male,Master,Project Manager,28,131264
+51,Male,PhD,Product Manager,1,106587
+22,Female,PhD,Product Manager,22,139645
+55,Female,Bachelor,Marketing Specialist,18,83544
+43,Male,PhD,Software Engineer,30,155569
+37,Male,PhD,DevOps Engineer,4,100990
+46,Male,Bachelor,Financial Analyst,18,78504
+28,Male,Master,Data Scientist,33,155346
+49,Female,PhD,Software Engineer,9,108587
+46,Female,PhD,Data Scientist,24,157177
+30,Female,PhD,Software Engineer,1,96079
+46,Female,High School,Software Engineer,10,63348
+54,Male,Bachelor,Project Manager,30,126299
+27,Male,High School,Software Engineer,14,71831
+24,Male,Bachelor,Marketing Specialist,8,65433
+31,Female,Master,DevOps Engineer,22,122381
+49,Male,Master,Product Manager,18,120172
+56,Female,PhD,Business Analyst,8,100890
+45,Female,Bachelor,Data Scientist,34,134715
+41,Male,Master,Product Manager,20,121450
+56,Male,Bachelor,Business Analyst,8,61433
+30,Male,Master,DevOps Engineer,27,125098
+57,Female,High School,DevOps Engineer,6,59096
+29,Male,Master,Data Scientist,15,112326
+44,Female,High School,Data Scientist,15,89087
+55,Male,Master,DevOps Engineer,32,140416
+55,Female,PhD,Business Analyst,3,87980
+56,Female,High School,Software Engineer,3,52763
+38,Male,Master,Financial Analyst,16,88674
+59,Female,PhD,HR Manager,28,158950
+52,Female,High School,Product Manager,34,122122
+44,Male,PhD,Project Manager,6,115915
+43,Female,Bachelor,Product Manager,26,118049
+52,Male,Bachelor,Project Manager,27,115089
+57,Female,High School,Business Analyst,21,71578
+32,Male,Master,Project Manager,13,110127
+33,Male,High School,Data Scientist,6,62155
+43,Female,PhD,Financial Analyst,21,126262
+45,Female,Master,Financial Analyst,4,64958
+55,Female,Bachelor,Data Scientist,1,73344
+50,Female,Master,Marketing Specialist,26,112779
+37,Female,Bachelor,Business Analyst,20,86144
+40,Male,Master,Marketing Specialist,14,88063
+45,Female,Master,Marketing Specialist,20,98830
+42,Male,Master,Product Manager,9,102046
+33,Male,PhD,DevOps Engineer,22,142831
+39,Female,PhD,Product Manager,4,112794
+56,Male,High School,DevOps Engineer,0,46659
+32,Male,High School,HR Manager,12,69441
+39,Male,Bachelor,Project Manager,20,106040
+32,Male,PhD,DevOps Engineer,25,145925
+29,Female,Bachelor,Data Scientist,20,112358
+27,Male,High School,Product Manager,17,83628
+48,Female,Bachelor,Business Analyst,31,108370
+34,Female,High School,Project Manager,16,86528
+51,Male,PhD,HR Manager,34,163948
+39,Female,Master,DevOps Engineer,10,98179
+36,Female,PhD,HR Manager,20,141115
+25,Female,Bachelor,Business Analyst,25,90459
+55,Male,Bachelor,Marketing Specialist,3,53568
+32,Female,PhD,Financial Analyst,33,145646
+45,Female,PhD,Business Analyst,17,109392
+41,Female,High School,Sales Executive,34,94787
+56,Male,Bachelor,Business Analyst,28,103374
+43,Female,Bachelor,HR Manager,28,117138
+36,Male,PhD,Data Scientist,20,144741
+59,Male,Master,Product Manager,12,106418
