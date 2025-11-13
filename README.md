@@ -58,6 +58,7 @@ Built using **Streamlit** with an elegant dark UI and multiple regression models
 
 ---
 
+
 ### 📈 Performance Charts
 
 **Model Comparison (R² Score)**
@@ -67,6 +68,11 @@ Built using **Streamlit** with an elegant dark UI and multiple regression models
 ![RMSE Comparison](images/rmse_comparison.png)
 
 ---
+
+
+
+
+
 
 ## ⚙️ Setup Instructions
 
